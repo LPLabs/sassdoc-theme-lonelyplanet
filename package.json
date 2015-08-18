@@ -1,0 +1,17 @@
+{
+  "name": "sassdoc-theme-lonelyplanet",
+  "description": "The sassdoc theme for Lonely Planet",
+  "version": "0.1.0",
+  "keywords": [
+    "sassdoc-theme"
+  ],
+  "dependencies": {
+    "extend": "^1.0.0",
+    "handlebars": "^3.0.3",
+    "sassdoc-extras": "^2.0.0",
+    "themeleon": "^3.0.0"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "generator-sassdoc-theme": {
+    "themeName": "sassdoc-theme-lonelyplanet",
+    "themeEngine": "handlebars",
+    "author": {
+      "name": "Jonathan Creamer"
+    },
+    "themeDesc": "The sassdoc theme for Lonely Planet",
+    "version": "0.1.0",
+    "useExtras": true,
+    "useSass": true,
+    "useSassUtils": true,
+    "useTaskRunner": false
+  }
+}
